@@ -1,5 +1,10 @@
 <h1 align="center">IJCAI-ECAI'22 Tutorial on Domain Generalization</h1>
 
+{: .no_toc .text-delta }
+
+1. TOC
+   {:toc}
+
 ## Introduction
 
 Machine learning model relies heavily on the availability of massive training data. For low-resource scenarios where the well-labeled data is hard to obtain, it is important to conduct cross-domain knowledge transfer to from the existing domains to the target domain. For this problem, great progress has been made in transfer learning and domain adaptation areas. Beyond these advances, it is of great importance to learn models that can generalize well in any new unseen environment.
