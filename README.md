@@ -1,9 +1,6 @@
 <h1 align="center">IJCAI-ECAI'22 Tutorial on Domain Generalization</h1>
 
-{: .no_toc .text-delta }
-
-1. TOC
-   {:toc}
+{:toc}
 
 ## Introduction
 
