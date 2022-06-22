@@ -33,7 +33,7 @@ Different from transfer learning and domain adaptation that assume the availabil
 
 ## Codebase
 
-[DeepDG]: https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG
+DeepDG: https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG
 
 ## Reference
 
