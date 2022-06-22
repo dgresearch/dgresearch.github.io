@@ -1,6 +1,11 @@
 <h1 align="center">IJCAI-ECAI'22 Tutorial on Domain Generalization</h1>
 
-[Slides]()  [Video]()
+<p align="center">
+[<a href="https://github.com/dgresearch/dgresearch.github.io/raw/main/DGtutorial_ijcai22.pdf">Slides</a>]
+[<a href="https://arxiv.org/abs/2103.03097">Paper</a>]
+[<a href="https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG">Code</a>]
+[<a href="https://recorder-v3.slideslive.com/#/share?share=68083&s=082db7e5-96ee-4eba-a4a4-92050f2ea7f6">Video</a>]
+</p>
 
 ## Introduction
 
@@ -25,6 +30,10 @@ Different from transfer learning and domain adaptation that assume the availabil
 - Applications
 - Datasets, benchmarks, and evaluations
 - Theory and future challenges
+
+## Codebase
+
+[DeepDG]: https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG
 
 ## Reference
 
