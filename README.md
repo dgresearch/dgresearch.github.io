@@ -1,6 +1,6 @@
 <h1 align="center">IJCAI-ECAI'22 Tutorial on Domain Generalization</h1>
 
-{:toc}
+[Slides]()  [Video]()
 
 ## Introduction
 
@@ -16,12 +16,16 @@ Different from transfer learning and domain adaptation that assume the availabil
 - [Jindong Wang](http://jd92.wang), Microsoft Research Asia, jindong.wang (at) microsoft.com
 - [Haoliang Li](https://hlli1991.github.io/), City University of Hong Kong, haoliang.li (at) cityu.edu.hk
 - [Sinno Jialin Pan](https://personal.ntu.edu.sg/sinnopan/), Nanyang Technological Universify, sinnopan (at) ntu.edu.sg
-- [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/), Microsoft Research Asia, taoqin (at) microsoft.com 
 
 ## Outline
 
-To be updated.
+- Introduction and background
+- Related research areas
+- Methodology of DG
+- Applications
+- Datasets, benchmarks, and evaluations
+- Theory and future challenges
 
 ## Reference
 
-- Wang et al. Generalizing to unseen domains: a survey on domain generalization. IJCAI 2021 survey track: https://arxiv.org/abs/2103.03097
+- Wang et al. Generalizing to unseen domains: a survey on domain generalization. IEEE Transactions on Knowledge and Data Engineering (TKDE) 2022: https://arxiv.org/abs/2103.03097
