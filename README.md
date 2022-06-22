@@ -7,6 +7,10 @@
 [<a href="https://recorder-v3.slideslive.com/#/share?share=68083&s=082db7e5-96ee-4eba-a4a4-92050f2ea7f6">Video</a>]
 </p>
 
+<p align="center">
+<img src="intro.png" width="60%"/>  
+</p>
+
 ## Introduction
 
 Machine learning model relies heavily on the availability of massive training data. For low-resource scenarios where the well-labeled data is hard to obtain, it is important to conduct cross-domain knowledge transfer to from the existing domains to the target domain. For this problem, great progress has been made in transfer learning and domain adaptation areas. Beyond these advances, it is of great importance to learn models that can generalize well in any new unseen environment.
