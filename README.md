@@ -4,7 +4,7 @@
 [<a href="https://github.com/dgresearch/dgresearch.github.io/raw/main/DGtutorial_ijcai22.pdf">Slides</a>]
 [<a href="https://jd92.wang/assets/files/DG_survey_TKDE22.pdf">Paper</a>]
 [<a href="https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG">Code</a>]
-[<a href="https://recorder-v3.slideslive.com/#/share?share=68083&s=082db7e5-96ee-4eba-a4a4-92050f2ea7f6">Video</a>]
+[<a href="https://www.ijcai-22.org/ijcai-2022-schedule/">Video (search "T01" and click)</a>]
 </p>
 
 <p align="center">
