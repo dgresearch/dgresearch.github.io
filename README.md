@@ -1,4 +1,8 @@
-<h1 align="center">IJCAI-ECAI'22 Tutorial on Domain Generalization</h1>
+<h1 align="center">A Tutorial on Domain Generalization</h1>
+
+**NEWS:** We will be hosting an in-person tutorial at **WSDM 2023**! New contents, new codes, and new other things! Stay tuned.
+
+The following are materials from our previous tutorial at **IJCAI-ECAI 2022**.
 
 <p align="center">
 [<a href="https://github.com/dgresearch/dgresearch.github.io/raw/main/DGtutorial_ijcai22.pdf">Slides</a>]
@@ -8,7 +12,7 @@
 </p>
 
 <p align="center">
-<img src="intro.png" width="90%"/>  
+<img src="imgs/intro.png" width="90%"/>  
 </p>
 
 ## Introduction
@@ -34,6 +38,10 @@ Different from transfer learning and domain adaptation that assume the availabil
 - Applications
 - Datasets, benchmarks, and evaluations
 - Theory and future challenges
+
+<p align="center">
+<img src="imgs/fig-dgresearch.png" width="90%"/>  
+</p>
 
 ## Codebase
 
