@@ -3,6 +3,10 @@
 An in-person tutorial at **WSDM 2023**! The complete slides will be updated. The following are drafts from previous tutorial at [IJCAI'22](ijcai22.md).
 
 <p align="center">
+<img src="imgs/banner-wsdm-2023_dates.png"/>
+</p>
+
+<p align="center">
 [<a href="https://github.com/dgresearch/dgresearch.github.io/raw/main/DGtutorial_ijcai22.pdf">Slides</a>]
 [<a href="https://jd92.wang/assets/files/DG_survey_TKDE22.pdf">Paper</a>]
 [<a href="https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG">Code</a>]
