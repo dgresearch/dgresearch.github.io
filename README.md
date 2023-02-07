@@ -21,7 +21,7 @@ Different from transfer learning and domain adaptation that assume the availabil
 
 - [Jindong Wang](http://jd92.wang), Microsoft Research Asia, jindong.wang (at) microsoft.com
 - [Haoliang Li](https://hlli1991.github.io/), City University of Hong Kong, haoliang.li (at) cityu.edu.hk
-- [Sinno Jialin Pan](https://personal.ntu.edu.sg/sinnopan/), Nanyang Technological Universify, sinnopan (at) ntu.edu.sg
+- [Sinno Jialin Pan](https://personal.ntu.edu.sg/sinnopan/), The Chinese University of Hong Kong, sinnopan (at) cuhk.edu.hk
 - [Xing Xie](https://www.microsoft.com/en-us/research/people/xingx/), Microsoft Research Asia, xingx (at) microsoft.com
 
 ## Outline
