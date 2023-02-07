@@ -1,11 +1,14 @@
 <h1 align="center">A Tutorial on Domain Generalization</h1>
 
-An in-person tutorial at **WSDM 2023**! The complete slides will be updated. The following are drafts from previous tutorial at [IJCAI'22](ijcai22.md).
-
 <p align="center">
 [<a href="https://github.com/dgresearch/dgresearch.github.io/raw/main/DGtutorial_ijcai22.pdf">Slides</a>]
 [<a href="https://jd92.wang/assets/files/DG_survey_TKDE22.pdf">Paper</a>]
 [<a href="https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG">Code</a>]
+[<a href="https://www.ijcai-22.org/ijcai-2022-schedule/">Video (search "T01" and click)</a>]
+</p>
+
+<p align="center">
+<img src="imgs/intro.png" width="90%"/>  
 </p>
 
 ## Introduction
@@ -22,7 +25,6 @@ Different from transfer learning and domain adaptation that assume the availabil
 - [Jindong Wang](http://jd92.wang), Microsoft Research Asia, jindong.wang (at) microsoft.com
 - [Haoliang Li](https://hlli1991.github.io/), City University of Hong Kong, haoliang.li (at) cityu.edu.hk
 - [Sinno Jialin Pan](https://personal.ntu.edu.sg/sinnopan/), Nanyang Technological Universify, sinnopan (at) ntu.edu.sg
-- [Xing Xie](https://www.microsoft.com/en-us/research/people/xingx/), Microsoft Research Asia, xingx (at) microsoft.com
 
 ## Outline
 
