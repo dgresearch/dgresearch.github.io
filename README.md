@@ -2,6 +2,10 @@
 
 An in-person tutorial at **WSDM 2023**! The complete slides will be updated. The following are drafts from previous tutorial at [IJCAI'22](ijcai22.md).
 
+<h3 align="center">
+1:30-5:00 pm, Monday, February 27th, Singapore
+</h3>
+
 <p align="center">
 <img src="imgs/banner-wsdm-2023_dates.png"/>
 </p>
