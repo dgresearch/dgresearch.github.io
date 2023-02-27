@@ -1,7 +1,5 @@
 <h1 align="center">A Tutorial on Domain Generalization</h1>
 
-An in-person tutorial at **WSDM 2023**! The complete slides will be updated. The following are drafts from previous tutorial at [IJCAI'22](ijcai22.md).
-
 <h3 align="center">
 1:30-5:00 pm, Monday, February 27th, Singapore
 </h3>
@@ -15,10 +13,13 @@ NEW: We will discuss ChatGPT vs. OOD robustness at the tutorial!
 </p>
 
 <p align="center">
-[<a href="https://github.com/dgresearch/dgresearch.github.io/raw/main/DGtutorial_ijcai22.pdf">Slides</a>]
+[<a href="DGtutorial_wsdm23.pdf">Slides 1: DG</a>]
+[<a href="DG_tutorial_wsdm23_chatgpt.pdf">Slides 2: ChatGPT robustness</a>]
 [<a href="https://jd92.wang/assets/files/DG_survey_TKDE22.pdf">Paper</a>]
 [<a href="https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG">Code</a>]
 </p>
+
+Previous tutorial: [IJCAI'22](ijcai22.md).
 
 ## Introduction
 
@@ -57,3 +58,5 @@ DeepDG: https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG
 ## Reference
 
 - Wang et al. Generalizing to unseen domains: a survey on domain generalization. IEEE Transactions on Knowledge and Data Engineering (TKDE) 2022: https://arxiv.org/abs/2103.03097
+
+
