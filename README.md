@@ -6,6 +6,10 @@ An in-person tutorial at **WSDM 2023**! The complete slides will be updated. The
 1:30-5:00 pm, Monday, February 27th, Singapore
 </h3>
 
+<h3 align="center">
+NEW: We will discuss ChatGPT vs. OOD robustness at the tutorial!
+</h3>
+
 <p align="center">
 <img src="imgs/banner-wsdm-2023_dates.png"/>
 </p>
@@ -40,6 +44,7 @@ Different from transfer learning and domain adaptation that assume the availabil
 - Applications
 - Datasets, benchmarks, and evaluations
 - Theory and future challenges
+- ChatGPT vs. OOD robustness?
 
 <p align="center">
 <img src="imgs/fig-dgresearch.png" width="90%"/>  
